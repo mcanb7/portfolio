@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Box = styled.div`
 padding: 80px 60px;
-background: black;
+background: #222831;
 bottom: 0;
 width: 100%;
 
@@ -18,7 +18,6 @@ export const Container = styled.div`
 	justify-content: center;
 	max-width: 1000px;
 	margin: 0 auto;
-	/* background: red; */
 `
 
 export const Column = styled.div`
@@ -47,7 +46,7 @@ font-size: 18px;
 text-decoration: none;
 
 &:hover {
-	color: green;
+	color: #FFD369;
 	transition: 200ms ease-in;
 }
 `;

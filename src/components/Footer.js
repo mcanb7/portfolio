@@ -18,10 +18,6 @@ import{
 const Footer = () => {
 return (
 	<Box>
-	<h1 style={{ color: "green",
-				textAlign: "center",
-				marginTop: "-75px" }}>
-	</h1>
 	<Container>
 		<Row>
 		<Column>
@@ -32,7 +28,7 @@ return (
 			<Heading>Çalışmalarım</Heading>
 			<FooterLink href="https://vektoregitim.net" target="_blank">Vektör Eğitim</FooterLink>
 			<FooterLink href="https://bmsyapiotomasyon.com" target="_blank">BMS Yapı Otomasyon</FooterLink>
-			<FooterLink href="https://perfecthousemersin.com" target="_blank">Perfect House</FooterLink>
+			<FooterLink href="http://perfecthousemersin.com/" target="_blank">Perfect House</FooterLink>
 		</Column>
 		<Column>
 			<Heading>İletişim</Heading>

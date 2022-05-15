@@ -14,7 +14,8 @@ export default function About(){
                             Selam.Ben Mahmut Can
                         </h1>
                         <p className="prose lg:prose-xl yazi2">
-                            Sakarya Üniversitesi bilgisayar mühendisliği 3.sınıf öğrencisiyim.
+                            Sakarya Üniversitesi bilgisayar mühendisliği 3.sınıf öğrencisiyim. Aynı zamanda uzaktan Anadolu Üniversitesi'nde yönetim bilişim sistemleri okuyorum.
+                            
                         </p>
                     </div>
                 </section>

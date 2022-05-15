@@ -69,7 +69,7 @@ export default function Portfolio(){
                                       Perfect House
                      </h3>
                               </span>
-                              <a href="https://perfecthousemersin.com" target="_blank">
+                              <a href="http://perfecthousemersin.com/" target="_blank">
                             <button class="btn1">
                             <span class="btn1span">Siteye gözatın.</span>
                             </button>
